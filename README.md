@@ -1,2 +1,2 @@
-# Javascript_practice
+# Javascript-practice
 Repository containing Javascript practice projects
